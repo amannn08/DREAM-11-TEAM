@@ -72,11 +72,11 @@ The project focuses on analyzing over 500+ records from the **T20 World Cup 2022
 
 ## 📊 Power BI Dashboard
 
-> 📸 **Screenshot:**  
-> ![Dashboard Preview](./Screenshot-2025-07-13-120744.png)
+> 📸 **Dashboard Overview:**  
+> ![Dashboard Preview](./Screenshot%202025-07-13%20170239.png)
 
 > 📸 **Player Performance Cards:**  
-> ![Player Cards](./Screenshot-2025-07-13-120755.png)
+> ![Player Cards](./Screenshot%202025-07-13%20170306.png)
 
 ---
 
